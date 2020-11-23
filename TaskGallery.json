@@ -1,0 +1,8 @@
+{
+    "name":"Zys",
+    "description":"Crontab Task Gallery",
+    "task":[
+        "0 19 * * 5 https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/epic.js, tag=每周 Epic 游戏限免, img-url=https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Images/Task/epic.png",
+        "30 8 * * 1 https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/exchange.js, tag=每日汇率, img-url=https://raw.githubusercontent.com/HotKids/Rules/master/Quantumult/X/Images/Task/exchange.png"
+    ]
+}
